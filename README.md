@@ -1,8 +1,11 @@
-# Dota 2 Hero Drafting Assistant
+# Dota 2 Draft Recommendation System
+
+## Co-Auhors - Yassar Mohammed, Siddhesh Iyer, Samundiswary Srinivasan
+## Publication Link: https://ieeexplore.ieee.org/document/9776822/
 
 ## Overview
 
-The Dota 2 Hero Drafting Assistant is a machine learning project aimed at assisting players in selecting suitable heroes for the last pick during the drafting phase of the game. This system suggests three hero choices to the user, taking into account the user's draft, the opponent's draft, and banned heroes. By considering these factors, the suggestions aim to provide diverse and effective hero options for the final pick.
+The Dota 2 Draft Recommendation System is a machine learning project aimed at assisting players in selecting suitable heroes for the last pick during the drafting phase of the game. This system suggests three hero choices to the user, taking into account the user's draft, the opponent's draft, and banned heroes. By considering these factors, the suggestions aim to provide diverse and effective hero options for the final pick.
 
 A web application is used to demonstrate the entire drafting process, allowing users to input their currently picked and banned heroes according to the draft flow. The model then displays the three best hero choices as output.
 
@@ -53,5 +56,4 @@ Despite Dota 2's evolving nature, this machine learning model assists players, f
 *Note: Figures and additional details can be found in the original research paper.*
 
 
-Co-Auhors - Yassar Mohammed, Siddhesh Iyer, Samundiswary Srinivasan
-Publication Link: https://ieeexplore.ieee.org/document/9776822/
+
